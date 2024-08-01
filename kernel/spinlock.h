@@ -10,4 +10,3 @@ struct spinlock {
   int n;
 #endif
 };
-
